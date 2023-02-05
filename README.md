@@ -1,2 +1,2 @@
 # BethanyPieShop
-## Repo for ASP.NET Core 6 Fundamentals Training Course
+## ASP.NET Core 6 Fundamentals Training Course
